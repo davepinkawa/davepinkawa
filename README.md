@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🌱 I’m currently learning Python and Django!
+- 🌱 I’m currently learning Python and RHEL!
 - 📫 How to reach me: dave@pinkawa.us
 - Personal Site: [dave.pinkawa.us](https://dave.pinkawa.us/)
 
