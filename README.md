@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Python and RHEL!
 - 📫 How to reach me: dave@pinkawa.us
-- Personal Site: [dave.pinkawa.us](https://dave.pinkawa.us/)
 
 <!--
 **davepinkawa/davepinkawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
